@@ -1,2 +1,7 @@
 # Steps-to-build-a-Repo
-Example of creating a Repo
+Making some edits
+Wow repos are awesome, man.
+
+#import csv file
+
+
